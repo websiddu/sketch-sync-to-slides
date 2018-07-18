@@ -775,7 +775,7 @@ SS.extend({
 
         return this.SSPanel({
             url: this.pluginSketch + "/panel/" + url,
-            width: 320,
+            width: 640,
             height: 500,
             data: data,
             identifier: 'com.google.sketch.slides',
